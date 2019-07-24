@@ -25,7 +25,7 @@ We've provided you with a console that you can use to test your code. To enter a
 
 ## Deliverables
 
-### Basic methods
+### Basic methods ##### COMPLETE #########
 
 - `Customer.all`
   - should return **all** of the customer instances
@@ -33,7 +33,7 @@ We've provided you with a console that you can use to test your code. To enter a
   - returns an array of all restaurants
 - `Review.all`
   - returns all of the reviews
-  
+
 ### Associations and Aggregate Methods
 
 #### Customer
@@ -56,7 +56,7 @@ We've provided you with a console that you can use to test your code. To enter a
 - `Restaurant#longest_review`
   - returns the longest review content for a given restaurant
 
-### Class Methods and Properties
+### Class Methods and Properties #### DONE #####
 
 #### Build the following methods on the `Customer` class
 
